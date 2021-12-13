@@ -17,6 +17,7 @@ run.py -model roberta-base
 | distilbert-base-multilingual-cased | 
 |roberta-base|roberta-large|
 |roberta-large-mnli|distilroberta-base|
+
 After runing the run.py the results of prompt tuning are saved in "results" folder.
 For measuring the bias you need to run:
 
